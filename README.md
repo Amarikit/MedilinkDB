@@ -12,7 +12,7 @@ MediLink DB is a relational database management system (RDBMS) built to streamli
 
 ##Setting Up:
 1.Open MySQL Workbench or your preferred SQL interface.
-2.Open the 'medilink_db.sql' file.
+2.Open the 'MedilinkDB.sql' file.
 3.Execute the script to create the database schema.
 
 ##Database Structure:
